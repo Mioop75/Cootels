@@ -437,9 +437,9 @@ body.locked {
 
 .intro__img.anime {
   opacity: 0;
-  -webkit-transition: all 3s;
-  -o-transition: all 3s;
-  transition: all 3s;
+  -webkit-transition: all 0.8s;
+  -o-transition: all 0.8s;
+  transition: all 0.8s;
 }
 
 .intro__img.active {
@@ -1365,7 +1365,7 @@ body.locked {
     font-size: 28px;
   }
 
-  .accordian__text {
+  .accordian__text--active {
     font-size: 0.875rem;
   }
 }
