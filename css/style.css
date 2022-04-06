@@ -680,7 +680,7 @@ body.locked {
   max-width: 384px;
 }
 
-.rooms-post__img:not(:last-child) {
+.rooms-post__img {
   margin-bottom: 32px;
 }
 
